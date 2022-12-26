@@ -2,19 +2,22 @@
 ![image](https://user-images.githubusercontent.com/58705759/205522901-9e0f4b30-e146-4306-8e79-06717e571df1.png)
 This is A SM-Wheelchair Website Ecommerce Project
 
-Information Technology Department
-Faculty of computers and information
-Luxor University
+
+
 ---------------------------------------------------
+
 Submitted by:
 Khaled Ahmed
 Ahmed Mohamed Hassan
 
 Haidy Hendy Danial Tawadros
 Fatma Younes
-
 Rehab Rabie
 
+
+Information Technology Department
+Faculty of computers and information
+Luxor University
 
 Supervised By: 
 
