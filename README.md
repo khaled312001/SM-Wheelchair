@@ -46,7 +46,9 @@ Feasibility Study:
 •	we will use the domain name   https://sm-wheelchair.netlify.app/
 
 •	we use MySQL For Website Database
-	The Timeline
+
+-The Timeline
+
 ![The Timeline](https://user-images.githubusercontent.com/58705759/209572559-7957954a-d854-4522-85d7-c3bbf18e3819.jpg)
 ------------------------------------------------------
 Screen shot :
