@@ -19,7 +19,6 @@ Rehab Rabie
 Supervised By: 
 Dr. Hussein Elshafie
 
-&
 Dr. Moussa Khoudary
 ---------------------------------------------------
 E-commerce platform activities are a subset of e-business activities, and they have recently become significant in several industries.
