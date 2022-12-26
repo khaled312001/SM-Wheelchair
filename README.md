@@ -20,7 +20,7 @@ Supervised By:
 Dr. Hussein Elshafie
 
 &
-Dr. Moussa Khoudary 
+Dr. Moussa Khoudary
 ---------------------------------------------------
 E-commerce platform activities are a subset of e-business activities, and they have recently become significant in several industries.
 The purpose of this paper is to construct and develop a trustworthy website based on e-commerce theories, creating efficient, attractive web pages. 
