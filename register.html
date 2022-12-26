@@ -1,11 +1,12 @@
 <!doctype html >
 <html class="no-js" lang="zxx" >
-    
+
 <head>
        
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
         <link rel="manifest" href="site.html">
-		<link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.ico">
+    <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.ico">
    
         <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
         <link rel="stylesheet" href="assets/css/animate.min.css">
@@ -20,7 +21,7 @@
     </head>
     <body >
 
-		<header style="direction: ltr;">
+    <header style="direction: ltr;">
             <div class="header-top-area pl-165 pr-165">
                 <div class="container-fluid">
                     <div class="row">
@@ -162,17 +163,19 @@
                     <div class="col-lg-8 offset-lg-2">
                         <div class="basic-login">
                             <h3 class="text-center mb-60">سجل حساب جديد</h3>
-                            <form action="#">
+                            <form action="connect.php" method="post">
                                 <label for="name">اسم المستخدم <span>**</span></label>
-                                <input id="name" type="text" placeholder="ادخل اسمك " />
+                                <input name="name" id="name" type="text" placeholder="ادخل اسمك " />
                                 <label for="email-id">البريد الالكترونى<span>**</span></label>
-                                <input id="email-id" type="text" placeholder="ادخل بريدك الالكترونى..." />
+                                <input  name="email" id="email"  type="text" placeholder="ادخل بريدك الالكترونى..." />
                                 <label for="pass">كلمه المرور <span>**</span></label>
-                                <input id="pass" type="password" placeholder="ادخل كلمه المرور..." />
+                                <input  name="password" id="password"  type="password" placeholder="ادخل كلمه المرور..." />
                                 <div class="mt-10"></div>
-                                <button class="c-btn theme-btn-2 w-100">سجل الآن</button>
+                                <input class="c-btn theme-btn-2 w-100" value="سجل" type="submit" location.href='login.html'>
                                 <div class="or-divide"><span>or</span></div>
                                 <button class="c-btn theme-btn w-100" onclick=" location.href='login.html'" type="button">الدخول لحساب متواجد</button>
+
+       
                             </form>
                         </div>
                     </div>
@@ -263,7 +266,7 @@
 
 
 
-		<!-- JS here -->
+    <!-- JS here -->
         <script src="assets/js/vendor/modernizr-3.5.0.min.js"></script>
         <script src="assets/js/vendor/jquery-1.12.4.min.js"></script>
         <script src="assets/js/popper.min.js"></script>
